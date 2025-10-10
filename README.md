@@ -94,9 +94,9 @@ Tampilkan:
 |-----------|--------|
 | Kelengkapan langkah preprocessing | 40% |
 | Penanganan missing value | 20% |
-| Kejelasan penjelasan dan komentar kode | 20% |
-| Kerapian dan format laporan | 10% |
-| Bonus (miceforest, visualisasi tambahan) | 10% |
+| Kejelasan penjelasan dan komentar kode | 25% |
+| Kerapihan atau cleaning code | 10% |
+| Bonus (menggunakan model imputasi dan encoding) | 5% |
 
 ---
 
