@@ -1,6 +1,6 @@
-# 🧠 Modul Penugasan: *Data Preprocessing*
+# Modul 2 Penugasan: *Data Preprocessing*
 
-## 📂 Deskripsi Tugas
+## Deskripsi Tugas
 Pada penugasan ini, Anda diminta untuk melakukan **tahapan preprocessing data** menggunakan bahasa pemrograman **Python**.  
 Data yang digunakan dapat diunduh melalui tautan berikut:
 
@@ -10,7 +10,7 @@ Tujuan dari tugas ini adalah agar mahasiswa mampu memahami dan menerapkan proses
 
 ---
 
-## 🎯 Tujuan Pembelajaran
+## Tujuan Pembelajaran
 1. Memahami konsep dan tahapan dalam preprocessing data.  
 2. Mampu menangani nilai hilang (*missing values*) dengan berbagai metode.  
 3. Mampu melakukan transformasi tipe data dan encoding.  
@@ -18,7 +18,7 @@ Tujuan dari tugas ini adalah agar mahasiswa mampu memahami dan menerapkan proses
 
 ---
 
-## 🧩 Petunjuk Pengerjaan
+## Petunjuk Pengerjaan
 - Kerjakan menggunakan **Google Colab** atau **Jupyter Notebook**.  
 - Gunakan library seperti `pandas`, `numpy`, `sklearn`, dan `miceforest` (jika digunakan).  
 - Beri komentar di setiap langkah agar mudah dipahami.  
@@ -26,7 +26,7 @@ Tujuan dari tugas ini adalah agar mahasiswa mampu memahami dan menerapkan proses
 
 ---
 
-## 🧾 Soal Penugasan
+## Soal Penugasan
 
 ### 1️. Tampilkan data yang telah diunduh, kemudian **jelaskan semua kolom** yang terdapat pada dataset tersebut.  
 
@@ -77,19 +77,19 @@ Tampilkan:
 
 ---
 
-## 📦 File yang Dikumpulkan
+## File yang Dikumpulkan
 - Notebook: `NIM_Nama.ipynb`  
 
 
 ---
 
-## 💡 Tips Tambahan
+## Tips Tambahan
 - Pastikan tidak ada nilai `NaN` atau tipe data yang tidak sesuai setelah preprocessing.  
 - Gunakan `Markdown` atau komentar di notebook untuk menjelaskan setiap langkah dengan jelas.
 
 ---
 
-## ✍️ Penilaian
+## Penilaian
 | Kriteria | Bobot |
 |-----------|--------|
 | Kelengkapan langkah preprocessing | 40% |
