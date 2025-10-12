@@ -56,10 +56,10 @@ Tampilkan:
 
 ### 6️. Tangani **nilai yang hilang (NaN)** menggunakan salah satu metode berikut:
 - Imputasi dengan **statistik deskriptif** (`mean`, `median`, `mode`), atau  
-- Imputasi dengan **model** seperti:
+- Imputasi dengan **model** *(nilai plus jika menggunakan ini)* seperti:
   - `SimpleImputer`
   - `KNNImputer`
-  - `miceforest` *(nilai plus jika menggunakan ini)*
+  - `miceforest` 
 
 > Pastikan untuk menampilkan data sebelum dan sesudah imputasi.
 
